@@ -1,2 +1,2 @@
 # Online-CV
-Digital version of my CV
+Digital version of my CV using streamlit.
